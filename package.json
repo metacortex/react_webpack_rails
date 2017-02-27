@@ -1,6 +1,6 @@
 {
   "name": "react-webpack-rails",
-  "version": "0.6.0",
+  "version": "0.6.1",
   "description": "Js part of react_webpack_rails - webpack based React & Rails integration.",
   "main": "js/lib/index.js",
   "files": [
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/netguru/react_webpack_rails.git"
+    "url": "git+https://github.com/metacortex/react_webpack_rails.git#react-hot-loader-v3"
   },
   "keywords": [
     "react",
